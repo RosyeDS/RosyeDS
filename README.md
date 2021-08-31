@@ -1,4 +1,4 @@
-### Hello,:computer:
+### Hello!! Eu sou a Rosi, estudante de Análise e Desenvolvimento de Sistemas.:coputer:
 
 <!--
 **RosyeDS/RosyeDS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
