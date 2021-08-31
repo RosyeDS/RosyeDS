@@ -1,7 +1,7 @@
 ### Hello!! Eu sou a Rosi, estudante de Análise e Desenvolvimento de Sistemas.:computer:
-Apaixonada por jogos antigos, 
+🎮Apaixonada por jogos antigos, METALEIRA 🎸 doida por Mozart: e Antonio Vivaldi, casada com um programador BRABO em :godmode: PHP e JAVA :goberserk:.
 
-<!--
+<!
 **RosyeDS/RosyeDS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
